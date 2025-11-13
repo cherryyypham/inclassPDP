@@ -1,4 +1,4 @@
-package main;
+package main.model;
 
 public abstract class Entity {
     protected Tile tile;

@@ -1,8 +1,8 @@
-package main;
+package main.model;
 
 public class Tile {
-    int x;
-    int y;
+    public int x;
+    public int y;
 
     Tile(int x, int y) {
         this.x = x;

@@ -1,5 +1,6 @@
 package main;
 
+import main.view.SnakeGame;
 import javax.swing.JFrame;
 
 public class App {
